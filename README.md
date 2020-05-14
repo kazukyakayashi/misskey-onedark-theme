@@ -1,6 +1,6 @@
 # Misskey OneDark theme
 
-Theme base on [OneDark](https://github.com/joshdick/onedark.vim) colors.
+Theme inspired by [OneDark](https://github.com/joshdick/onedark.vim) colors.
 
 # Use
 
