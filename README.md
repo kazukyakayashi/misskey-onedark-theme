@@ -1,1 +1,41 @@
-# misskey-onedark-theme
+# Misskey OneDark theme
+
+Theme base on [OneDark](https://github.com/joshdick/onedark.vim) colors.
+
+# Use
+
+Copy this code on misskey theme editor :
+
+```
+{
+	id: 'OneDark',
+
+	name: 'OneDark',
+	author: 'KazukyAkayashi',
+	desc: 'Dark theme',
+
+	base: 'dark',
+
+	props: {
+	accent: '#98c379',
+	tag:'#61afef',
+	bg: '#1f2228',
+	fg: '#abb2bf',
+	fgHighlighted: '#c678dd',
+	panel: '#282c34',
+	header: 'rgba(40, 44, 52, 0.75)',
+	navFg: '@fg',
+	navHoverFg: 'c678dd',
+	navActive: 'c678dd',
+	navIndicator: '@accent',
+	link: '#e5c07b',
+	mention: '#b48ead',
+	hashtag: '@tag',
+	renote: '#56b6c2',
+	pageBg: '@bg',
+	badge:'#61afef',
+	divider:'rgba(43, 48, 59, 0.7)',
+	driveFolderBg:'@panel',
+	},
+}
+```
