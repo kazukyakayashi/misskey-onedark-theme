@@ -18,7 +18,6 @@ Copy this code on misskey theme editor :
 
 	props: {
 	accent: '#98c379',
-	tag:'#61afef',
 	bg: '#1f2228',
 	fg: '#abb2bf',
 	fgHighlighted: '#c678dd',
@@ -30,7 +29,7 @@ Copy this code on misskey theme editor :
 	navIndicator: '@accent',
 	link: '#e5c07b',
 	mention: '#b48ead',
-	hashtag: '@tag',
+	hashtag: '#61afef',
 	renote: '#56b6c2',
 	pageBg: '@bg',
 	badge:'#61afef',
