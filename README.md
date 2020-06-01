@@ -38,3 +38,7 @@ Copy this code on misskey theme editor :
 	},
 }
 ```
+
+# Screenshot 
+
+![](onedark-theme.png)
