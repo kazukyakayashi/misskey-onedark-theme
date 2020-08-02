@@ -23,6 +23,7 @@ Copy this code on misskey theme editor :
 	fgHighlighted: '#c678dd',
 	panel: '#282c34',
 	header: 'rgba(40, 44, 52, 0.75)',
+	navBg: '#282c34',
 	navFg: '@fg',
 	navHoverFg: '#c678dd',
 	navActive: '#c678dd',
