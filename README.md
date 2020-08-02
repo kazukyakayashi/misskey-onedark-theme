@@ -9,7 +9,7 @@ Copy this code on misskey theme editor :
 ```
 {
 	id: 'OneDark',
-
+	
 	name: 'OneDark',
 	author: 'KazukyAkayashi',
 	desc: 'Dark theme',
@@ -34,7 +34,7 @@ Copy this code on misskey theme editor :
 	renote: '#56b6c2',
 	pageBg: '@bg',
 	badge:'#61afef',
-	divider:'rgba(43, 48, 59, 0.7)',
+	divider:'rgba(31, 34, 40, 0.7)',
 	driveFolderBg:'@panel',
 	},
 }
